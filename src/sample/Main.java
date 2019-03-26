@@ -16,7 +16,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         try {
             BorderPane root = new BorderPane();
-            Scene scene = new Scene(root, 400, 220);
+            Scene scene = new Scene(root, 400, 227);
             DatePickerSkin datePickerSkin = new DatePickerSkin(new DatePicker(LocalDate.now()));
             Node popupContent = datePickerSkin.getPopupContent();
 
