@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" build-on-make="true" name="JavaFXApp">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXApp</output-path>
+  <artifact type="javafx" build-on-make="true" name="Calendar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calendar</output-path>
     <properties id="javafx-properties">
       <options>
         <option name="appClass" value="sample.Main" />
